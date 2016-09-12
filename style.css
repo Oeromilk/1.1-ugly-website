@@ -1,0 +1,43 @@
+html {
+  color: #FFFFE8;
+  font-family: monospace;
+}
+body {
+  background-color: #34546B;
+}
+
+header {
+  background-color: #46BFA6;
+}
+
+h1, h2, h4 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+section {
+  margin: 140px;
+}
+
+ol, ul {
+  list-style: none;
+  text-align: center;
+  margin: 20px;
+}
+
+img {
+  width: 360px;
+  height: 240px;
+  padding: 0px 20px;
+}
